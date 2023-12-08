@@ -24,14 +24,14 @@ public class SwaggerConfig {
 						.version("v0.0.1")
 					.license(new License()
 							.name("despertar tec")
-							.url("https://brazil.generation.org/"))
+							.url("https://despertar.org.br/"))
 					.contact(new Contact()
 							.name("alan, marcose vitor")
-							.url("https://github.com/loirena")
-							.email("dlm.lorena@gmail.com")))
+							.url("https://github.com/alan77725")							
+							.email("alan.cardoso.cedesp@despertar.org.br")))
 					.externalDocs(new ExternalDocumentation()
 							.description("Github")
-							.url("https://github.com/loirena/blog-pessoal"));
+							.url("https://github.com/alan77725/rede-social"));
 	}
 	
 	
